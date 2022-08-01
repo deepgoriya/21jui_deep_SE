@@ -1,0 +1,31 @@
+1. What is software? What is engineering?
+A. - software is a collection of computer programs and related data that provide the instruction for telling a computer what to do and how to do it.
+     - software engineering is a systemetic approch to the design, devlopment, operation, and maintenance of a software system.
+
+2. Explain types of software     
+A.  - Three types of software
+      1. system software
+      2. application software
+      3. programming software
+
+3. What is SDLC? Explain each phase of SDLC
+A.  - A Software Development Life Cycle is essentially a series of steps, or phase, that provide a model for the development and lifecycle management
+        of an application or piece of software.
+         
+        SDLC Phases :- 1. Requirement Collection/Gathering
+                  	                 2. Analsis
+	                 3. Design
+	                 4. Implementation
+	                 5. Testing
+	                 6. Maintenance
+
+4. What is DFD? Create a DFD diagram on Flipkart
+A.  - DFD is a Data Flow Diagram is a traditional  way to visualize the information flows within a system.
+
+5.  What is flow chart? create a flowchart to make  addition of two numbers
+A.  - A flowchart is a graphical represenation of the operations involved in a data processing system.
+
+6.  What is use case diagram? create a use -case on bill payment on paytem.
+A.  - Use -case diagrams describe the high-level functions and scope of a system. these diagram also identify the interactions between the system and its actors .
+         The use cases and actors in use -case diagrams decribe what the system does and how the actors use it, but not how the system operates internally.   
+    	      
